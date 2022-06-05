@@ -1,0 +1,4 @@
+.env/
+.ipynb_checkpoints/
+databases/csv/*
+databases/xslx/*
